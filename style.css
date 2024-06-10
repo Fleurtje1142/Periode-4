@@ -12,16 +12,16 @@
 }
 
 #leftColum {
-    width: 600px;
+    width: 610px;
     float: left;
     margin-top: 50px;
     
 }
 
 #rightColum {
-    width: 630px;
+    width: 1000px;
     float: right;
-    margin-top: 150px;
+    margin-top: 50px;
 
 }
 
