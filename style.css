@@ -1,0 +1,64 @@
+#box {
+    height: 90px;
+    background: #87b792;
+    padding: 14px 0px 0px 0px;
+}
+
+#Abbe {
+    color: #ffffff;
+    font-family: glory;
+   text-align: center;
+
+}
+
+#leftColum {
+    width: 600px;
+    float: left;
+    margin-top: 50px;
+    
+}
+
+#rightColum {
+    width: 630px;
+    float: right;
+    margin-top: 150px;
+
+}
+
+#box3 {
+    width: 600px;
+    height: 344px;
+    background: #CCE7D2;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+.highlighttwo {
+    color: #87b792;
+    font-size: 23px;
+
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    background: #87b792;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+    font-size: 1rem;
+    transition: 0.2s;
+    border-radius: 10px;
+    width: 200px;
+}
+
+button:hover {
+    background: #ffffff;
+}
